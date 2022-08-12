@@ -1,4 +1,4 @@
-### A Basic Login and Regisration System.
+### A Basic Login and Regisration System
 
 
 This is a project I was working on to practice Python GUI Programming with Tkinter, the de facto Python GUI framework. It is basically a Login and Registration System. Gotta admit—GUI programming is not my strong suit.
