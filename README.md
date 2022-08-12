@@ -23,4 +23,4 @@ User: 1111
 Password: 1234
 
 
-Feel free to share or modify; just give proper credit plz. 
+Feel free to share. 
