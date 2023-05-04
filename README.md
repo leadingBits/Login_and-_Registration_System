@@ -5,8 +5,7 @@ This is a Tkinter, the de-facto Python GUI framework, based project. It is basic
 
 Required utilities:
 
-Tkinter
-SQLite
+Tkinter, SQLite
 
 
 Credentials for the SQLite Database:
