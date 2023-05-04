@@ -12,11 +12,11 @@ Credentials for the SQLite Database:
 
 Admin Login:
 
-User: root
+User: root,
 Password: root
 
 User Login:
 
-User: 1111
+User: 1111,
 Password: 1234
 
